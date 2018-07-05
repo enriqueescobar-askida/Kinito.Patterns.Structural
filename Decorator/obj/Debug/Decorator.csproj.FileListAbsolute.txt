@@ -1,0 +1,6 @@
+E:\HOME\Dropbox\Kinito.Patterns.Structural\Decorator\bin\Debug\Decorator.exe.config
+E:\HOME\Dropbox\Kinito.Patterns.Structural\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+E:\HOME\Dropbox\Kinito.Patterns.Structural\Decorator\bin\Debug\Decorator.exe
+E:\HOME\Dropbox\Kinito.Patterns.Structural\Decorator\bin\Debug\Decorator.pdb
+E:\HOME\Dropbox\Kinito.Patterns.Structural\Decorator\obj\Debug\Decorator.exe
+E:\HOME\Dropbox\Kinito.Patterns.Structural\Decorator\obj\Debug\Decorator.pdb

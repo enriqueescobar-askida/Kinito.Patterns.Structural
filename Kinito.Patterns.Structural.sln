@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{10705B52-35DC-4F1C-998F-6576D1F04EDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{305FF180-6CC0-4A3A-B8D5-B21F7E9E4EB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{6E43F792-B2D4-43BF-98C7-1604CEE9BDAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{B49D4BF3-3F03-4C82-9D4D-0FECA69C6EB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{9288D3B4-4960-4521-8BA7-89821742EE6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyWeight", "FlyWeight\FlyWeight.csproj", "{161B25DD-D0E2-4FD6-9512-E7F5BB947878}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{3AC4DDB1-B0C7-4093-87E0-2015368FE9D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F7144BFA-17D7-4A1D-AB99-8B25640A28CA}"
+	ProjectSection(SolutionItems) = preProject
+		Kinito.Patterns.Structural.jpg = Kinito.Patterns.Structural.jpg
+		Kinito.Patterns.Structural.txt = Kinito.Patterns.Structural.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10705B52-35DC-4F1C-998F-6576D1F04EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10705B52-35DC-4F1C-998F-6576D1F04EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10705B52-35DC-4F1C-998F-6576D1F04EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10705B52-35DC-4F1C-998F-6576D1F04EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{305FF180-6CC0-4A3A-B8D5-B21F7E9E4EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{305FF180-6CC0-4A3A-B8D5-B21F7E9E4EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{305FF180-6CC0-4A3A-B8D5-B21F7E9E4EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{305FF180-6CC0-4A3A-B8D5-B21F7E9E4EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E43F792-B2D4-43BF-98C7-1604CEE9BDAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E43F792-B2D4-43BF-98C7-1604CEE9BDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E43F792-B2D4-43BF-98C7-1604CEE9BDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E43F792-B2D4-43BF-98C7-1604CEE9BDAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B49D4BF3-3F03-4C82-9D4D-0FECA69C6EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B49D4BF3-3F03-4C82-9D4D-0FECA69C6EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B49D4BF3-3F03-4C82-9D4D-0FECA69C6EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B49D4BF3-3F03-4C82-9D4D-0FECA69C6EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9288D3B4-4960-4521-8BA7-89821742EE6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9288D3B4-4960-4521-8BA7-89821742EE6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9288D3B4-4960-4521-8BA7-89821742EE6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9288D3B4-4960-4521-8BA7-89821742EE6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{161B25DD-D0E2-4FD6-9512-E7F5BB947878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161B25DD-D0E2-4FD6-9512-E7F5BB947878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161B25DD-D0E2-4FD6-9512-E7F5BB947878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161B25DD-D0E2-4FD6-9512-E7F5BB947878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC4DDB1-B0C7-4093-87E0-2015368FE9D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC4DDB1-B0C7-4093-87E0-2015368FE9D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC4DDB1-B0C7-4093-87E0-2015368FE9D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC4DDB1-B0C7-4093-87E0-2015368FE9D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

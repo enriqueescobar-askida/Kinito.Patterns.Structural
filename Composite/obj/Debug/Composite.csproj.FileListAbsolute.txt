@@ -1,0 +1,6 @@
+E:\HOME\Dropbox\Kinito.Patterns.Structural\Composite\bin\Debug\Composite.exe.config
+E:\HOME\Dropbox\Kinito.Patterns.Structural\Composite\bin\Debug\Composite.exe
+E:\HOME\Dropbox\Kinito.Patterns.Structural\Composite\bin\Debug\Composite.pdb
+E:\HOME\Dropbox\Kinito.Patterns.Structural\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache
+E:\HOME\Dropbox\Kinito.Patterns.Structural\Composite\obj\Debug\Composite.exe
+E:\HOME\Dropbox\Kinito.Patterns.Structural\Composite\obj\Debug\Composite.pdb

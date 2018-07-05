@@ -1,0 +1,5 @@
+*.pdb
+*.manifest
+/Decorator.exe.config
+/Decorator.vshost.exe.config
+*.exe

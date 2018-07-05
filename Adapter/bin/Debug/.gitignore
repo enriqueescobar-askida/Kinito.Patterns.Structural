@@ -1,0 +1,5 @@
+*.pdb
+*.manifest
+/Adapter.exe.config
+/Adapter.vshost.exe.config
+*.exe

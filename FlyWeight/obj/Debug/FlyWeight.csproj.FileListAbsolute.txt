@@ -1,0 +1,1 @@
+E:\HOME\Dropbox\Kinito.Patterns.Structural\FlyWeight\bin\Debug\FlyWeight.exe.config

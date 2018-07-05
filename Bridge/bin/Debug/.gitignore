@@ -1,0 +1,5 @@
+*.pdb
+*.manifest
+/Bridge.exe.config
+/Bridge.vshost.exe.config
+*.exe

@@ -1,0 +1,4 @@
+*.manifest
+/FlyWeight.exe.config
+/FlyWeight.vshost.exe.config
+*.exe

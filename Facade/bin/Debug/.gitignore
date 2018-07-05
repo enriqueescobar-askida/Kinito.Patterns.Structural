@@ -1,0 +1,4 @@
+*.manifest
+/Facade.exe.config
+/Facade.vshost.exe.config
+*.exe

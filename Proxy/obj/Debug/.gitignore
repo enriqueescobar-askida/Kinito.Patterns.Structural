@@ -1,0 +1,3 @@
+*.cache
+*.csproj.FileListAbsolute.txt
+TemporaryGeneratedFile_*.cs

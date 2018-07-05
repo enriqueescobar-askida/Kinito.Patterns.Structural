@@ -1,0 +1,4 @@
+*.manifest
+/Proxy.exe.config
+/Proxy.vshost.exe.config
+*.exe

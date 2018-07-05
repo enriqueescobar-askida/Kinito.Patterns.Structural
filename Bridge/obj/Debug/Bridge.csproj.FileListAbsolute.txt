@@ -1,0 +1,6 @@
+E:\HOME\Dropbox\Kinito.Patterns.Structural\Bridge\bin\Debug\Bridge.exe.config
+E:\HOME\Dropbox\Kinito.Patterns.Structural\Bridge\bin\Debug\Bridge.exe
+E:\HOME\Dropbox\Kinito.Patterns.Structural\Bridge\bin\Debug\Bridge.pdb
+E:\HOME\Dropbox\Kinito.Patterns.Structural\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+E:\HOME\Dropbox\Kinito.Patterns.Structural\Bridge\obj\Debug\Bridge.exe
+E:\HOME\Dropbox\Kinito.Patterns.Structural\Bridge\obj\Debug\Bridge.pdb

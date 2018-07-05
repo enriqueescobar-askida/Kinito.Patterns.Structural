@@ -1,0 +1,7 @@
+C:\Users\root\documents\visual studio 2012\Projects\Kinito.Patterns.Structural\Adapter\bin\Debug\Adapter.exe.config
+E:\HOME\Dropbox\Kinito.Patterns.Structural\Adapter\bin\Debug\Adapter.exe.config
+E:\HOME\Dropbox\Kinito.Patterns.Structural\Adapter\bin\Debug\Adapter.exe
+E:\HOME\Dropbox\Kinito.Patterns.Structural\Adapter\bin\Debug\Adapter.pdb
+E:\HOME\Dropbox\Kinito.Patterns.Structural\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+E:\HOME\Dropbox\Kinito.Patterns.Structural\Adapter\obj\Debug\Adapter.exe
+E:\HOME\Dropbox\Kinito.Patterns.Structural\Adapter\obj\Debug\Adapter.pdb
